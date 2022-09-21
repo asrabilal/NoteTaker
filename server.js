@@ -19,4 +19,4 @@ app.use("/api",apiroutes);
 app.use("/",htmlroutes);
 
 //App Listener through localhost//
-app.listen(PORT,() => console.log(`listening on PORT ${PORT}`));
+app.listen(PORT,() => console.log(`Welcome! you are listening on PORT ${PORT}`));
