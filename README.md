@@ -1,4 +1,4 @@
-# Team Profile Generator
+# Note Taker with Express.js
 
   ## Licensing:
   [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
@@ -15,32 +15,32 @@
  
 
   ## Description:
-  'A Node.js command Line application gathered the details about software engineering team and generate a custom HTML webpage to display Team members contact summary  by using Object Oriented Programming to organize information on different types of positions.'
+  A simple to use note taking app that utilizes Node.js and Express.js to write and save notes.This application will use an express backend and save and retrieve note data from a JSON file.
 
   ## Installation:
-  'To get a local copy up and running follow these simple steps. *Clone the repo(git clone)           *Install NPM packages(npm i)                *Run application(node index)',
+  The dependencies are express. Install the packages/dependencies by hitting "npm install" command on your terminal. 
 
   ## Usage:
-  "Execute 'node index.js' and answer question prompts. When finished, an html file with automatically be generated in /dist, where a css file already exists, to provide the styling for the html."
+  User can organize his thoughts and keep track of tasks need to complete.For users can keep track of a lot of information.Being able to take persistent notes allows users to have written information available when needed.
 
   ## License:
   MIT
 
   ## Contribution:
-  Feel free to contribute.',
+  Feel free to contribute.
 
   ## Testing:
-  "Execute 'npm Test' to run test on commad line.",
+  N/A
 
   ## Video:
   [Walk-through Video Link](https://drive.google.com/file/d/1rPuD-Nln_fupvE3EVsjqqxsGvdB4Ot0L/view)
    
 
   ## Questions
-  [HERE](https://github.com/asrabilal')
+  [HERE](https://github.com/)
 
    
   
   ## Additional Info:
-  - Github: [asrabilal'](https://github.com/asrabilal')
-  - Email: asra96@gmail.com' 
+  - Github: [asrabilal](https://github.com/)
+  - Email: asra596@gmail.com 
