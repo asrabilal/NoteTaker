@@ -44,3 +44,5 @@
   ## Additional Info:
   - Github: [asrabilal](https://github.com/)
   - Email: asra596@gmail.com 
+  - Deployed Link Herokuapp: [Heroku](https://notedottaker.herokuapp.com/notes)
+  - Url for Git Repo: [Git Repo](https://github.com/asrabilal/notedottaker.git)
